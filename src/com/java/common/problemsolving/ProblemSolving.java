@@ -1,4 +1,4 @@
-package java.common.problemsolving;
+package com.java.common.problemsolving;
 
 public class ProblemSolving {
 public static void main(String args[]){
